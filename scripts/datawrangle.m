@@ -52,7 +52,7 @@ patients.Age(patients.Age == '100代') = '90歳以上';
 patients.Age(patients.Age == '100歳以上') = '90歳以上';
 
 age_list = unique(patients.Age);
-age_value = { 'age_10s'  'age_under10'  'age_20s'  'age_30s'  'age_40s'  'age_50s'   'age_60s'   'age_70s'   'age_80s'   'age_90s'   'age_over90'};
+age_value = {'age_under10' 'age_10s' 'age_20s' 'age_30s' 'age_40s' 'age_50s' 'age_60s' 'age_70s' 'age_80s' 'age_90s' 'age_over90' 'unknown'};
 map_age = containers.Map(age_list', age_value);
 
 %% 市町村名の取得
