@@ -11789,5 +11789,18 @@
     "testedAve": 3447.5714285714284,
     "positiveAve": 2031.1428571428571,
     "positiveRate": 58.9151783864418
+  },
+  {
+    "YMD": "2022/08/09",
+    "regionCode": 200000,
+    "namePref": "長野県",
+    "nameMunicipal": "",
+    "testedNum": 3145,
+    "misc": "",
+    "positiveNum": 2387,
+    "negativeNum": 758,
+    "testedAve": 3211,
+    "positiveAve": 2036.4285714285713,
+    "positiveRate": 63.420385282733463
   }
 ]
