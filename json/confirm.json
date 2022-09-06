@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022/09/05 17:56",
+  "lastUpdated": "2022/09/06 17:57",
   "confirm": [
     {
       "Date": "2020/02/14",
@@ -6513,31 +6513,38 @@
     },
     {
       "Date": "2022/09/01",
-      "ConfirmedNumber": 1460,
-      "MovingAverage": 1929.8571428571429,
-      "ConfirmedPer100k": 667.416639617247,
-      "Rt": 0.81238285527371634
+      "ConfirmedNumber": 1735,
+      "MovingAverage": 1969.1428571428571,
+      "ConfirmedPer100k": 681.00310611326768,
+      "Rt": 0.82416130985754232
     },
     {
       "Date": "2022/09/02",
       "ConfirmedNumber": 1442,
-      "MovingAverage": 1826.5714285714287,
-      "ConfirmedPer100k": 631.69658406589087,
-      "Rt": 0.81930291269659394
+      "MovingAverage": 1865.8571428571429,
+      "ConfirmedPer100k": 645.28305056191152,
+      "Rt": 0.83185136592629172
     },
     {
       "Date": "2022/09/03",
       "ConfirmedNumber": 1300,
-      "MovingAverage": 1726.4285714285713,
-      "ConfirmedPer100k": 597.06344583421651,
-      "Rt": 0.80715463363852136
+      "MovingAverage": 1765.7142857142858,
+      "ConfirmedPer100k": 610.64991233023716,
+      "Rt": 0.82023181921651378
     },
     {
       "Date": "2022/09/04",
       "ConfirmedNumber": 511,
-      "MovingAverage": 1678.8571428571429,
-      "ConfirmedPer100k": 580.61147004085331,
-      "Rt": 0.80413430133471953
+      "MovingAverage": 1718.1428571428571,
+      "ConfirmedPer100k": 594.197936536874,
+      "Rt": 0.81753050204478139
+    },
+    {
+      "Date": "2022/09/05",
+      "ConfirmedNumber": 1719,
+      "MovingAverage": 1614.4285714285713,
+      "ConfirmedPer100k": 558.32966498737937,
+      "Rt": 0.80015194578740612
     }
   ]
 }
