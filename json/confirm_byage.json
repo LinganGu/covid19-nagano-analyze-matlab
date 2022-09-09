@@ -14053,5 +14053,20 @@
     "age_90s": 0,
     "age_over90": 7,
     "unknown": 204
+  },
+  {
+    "YMD": "2022/09/08",
+    "age_under10": 66,
+    "age_10s": 66,
+    "age_20s": 41,
+    "age_30s": 58,
+    "age_40s": 66,
+    "age_50s": 39,
+    "age_60s": 31,
+    "age_70s": 18,
+    "age_80s": 9,
+    "age_90s": 0,
+    "age_over90": 7,
+    "unknown": 204
   }
 ]
