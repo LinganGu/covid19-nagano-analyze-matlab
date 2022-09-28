@@ -12328,13 +12328,13 @@
     "regionCode": 200000,
     "namePref": "長野県",
     "nameMunicipal": "",
-    "testedNum": 1134,
+    "testedNum": 1298,
     "misc": "",
     "positiveNum": 471,
-    "negativeNum": 663,
-    "testedAve": 1786.1428571428571,
+    "negativeNum": 827,
+    "testedAve": 1809.5714285714287,
     "positiveAve": 818.85714285714289,
-    "positiveRate": 45.844997200671841
+    "positiveRate": 45.251440751559166
   },
   {
     "YMD": "2022/09/20",
@@ -12345,9 +12345,9 @@
     "misc": "",
     "positiveNum": 1003,
     "negativeNum": 2518,
-    "testedAve": 1848.5714285714287,
+    "testedAve": 1872,
     "positiveAve": 778.28571428571433,
-    "positiveRate": 42.102009273570324
+    "positiveRate": 41.575091575091577
   },
   {
     "YMD": "2022/09/21",
@@ -12358,9 +12358,9 @@
     "misc": "",
     "positiveNum": 968,
     "negativeNum": 1157,
-    "testedAve": 1785.4285714285713,
+    "testedAve": 1808.8571428571429,
     "positiveAve": 773.85714285714289,
-    "positiveRate": 43.342934869579139
+    "positiveRate": 42.781551097772862
   },
   {
     "YMD": "2022/09/22",
@@ -12371,9 +12371,9 @@
     "misc": "",
     "positiveNum": 712,
     "negativeNum": 1364,
-    "testedAve": 1752.7142857142858,
+    "testedAve": 1776.1428571428571,
     "positiveAve": 747,
-    "positiveRate": 42.619610400195612
+    "positiveRate": 42.0574278130781
   },
   {
     "YMD": "2022/09/23",
@@ -12384,9 +12384,9 @@
     "misc": "",
     "positiveNum": 396,
     "negativeNum": 353,
-    "testedAve": 1581.5714285714287,
+    "testedAve": 1605,
     "positiveAve": 675.42857142857144,
-    "positiveRate": 42.706169271068553
+    "positiveRate": 42.082777036048064
   },
   {
     "YMD": "2022/09/24",
@@ -12397,9 +12397,9 @@
     "misc": "",
     "positiveNum": 769,
     "negativeNum": 532,
-    "testedAve": 1628.1428571428571,
+    "testedAve": 1651.5714285714287,
     "positiveAve": 667.42857142857144,
-    "positiveRate": 40.993243836097221
+    "positiveRate": 40.41172908917914
   },
   {
     "YMD": "2022/09/25",
@@ -12410,8 +12410,8 @@
     "misc": "",
     "positiveNum": 479,
     "negativeNum": 276,
-    "testedAve": 1665.8571428571429,
+    "testedAve": 1689.2857142857142,
     "positiveAve": 685.42857142857144,
-    "positiveRate": 41.145699339679268
+    "positiveRate": 40.575052854122625
   }
 ]
