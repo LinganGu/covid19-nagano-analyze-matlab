@@ -14311,17 +14311,17 @@
   },
   {
     "YMD": "2022/09/25",
-    "age_under10": 82,
-    "age_10s": 128,
-    "age_20s": 70,
-    "age_30s": 75,
-    "age_40s": 79,
-    "age_50s": 63,
-    "age_60s": 36,
-    "age_70s": 26,
-    "age_80s": 9,
+    "age_under10": 73,
+    "age_10s": 92,
+    "age_20s": 29,
+    "age_30s": 72,
+    "age_40s": 66,
+    "age_50s": 34,
+    "age_60s": 20,
+    "age_70s": 18,
+    "age_80s": 10,
     "age_90s": 0,
-    "age_over90": 1,
-    "unknown": 322
+    "age_over90": 15,
+    "unknown": 150
   }
 ]
